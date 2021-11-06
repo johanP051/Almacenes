@@ -1,12 +1,13 @@
 # Almacenes
 
 **Para clonar el Repositorio**
-Vaya a la terminal Linux o a la cmd en Windows y ejecute:
-
+Vaya a la terminal de Linux o Mac, o a la cmd en Windows y ejecute:
 
 ````
 git clone https://github.com/johanP051/Almacenes.git
 ````
+_Asegúrese de tener git instalado_
+
 
 **Instalar librería prettytable**
 
@@ -14,6 +15,7 @@ git clone https://github.com/johanP051/Almacenes.git
 pip3 install -r requeriments.txt
 ```
 Se necesita tener prettytable instalado para el funcionamiento del programa
+
 
 **Para ejecutar el programa:**
 
@@ -26,6 +28,8 @@ Tener en cuenta que _file.py_ es sedeBogota.py, sedeBarranquilla.py o sedeMedell
 ## Ejemplo muestra de la ejecucuón del programa
 * La tabla muestra el Nombre, Precio, ID, Características y Cantidad del producto
 * Se le debe indicar el ID del producto que desea comprar
+
+Estando dentro de la carpeta _Almacenes_
 ```
 python3 sedeBogota.py
 ```
@@ -41,4 +45,4 @@ python3 sedeMedellin.py
 ```
 ![image](https://user-images.githubusercontent.com/64292875/140618023-04a43085-dbd6-4024-bf92-ceb074bbfd3d.png)
 
-
+_**Autor: JohanPosada**_
