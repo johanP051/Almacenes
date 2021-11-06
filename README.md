@@ -1,6 +1,7 @@
 # Almacenes
 
-**Para clonar el Repositorio**
+**Para clonar el Repositorio:**
+
 Vaya a la terminal de Linux o Mac, o a la cmd en Windows y ejecute:
 
 ````
