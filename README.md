@@ -26,7 +26,7 @@ python3 _file.py_
 ```
 Tener en cuenta que _file.py_ es sedeBogota.py, sedeBarranquilla.py o sedeMedellin.py
 
-## Ejemplo muestra de la ejecucuón del programa
+## Ejemplo muestra de la ejecución del programa
 * La tabla muestra el Nombre, Precio, ID, Características y Cantidad del producto
 * Se le debe indicar el ID del producto que desea comprar
 
